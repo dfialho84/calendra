@@ -3,3 +3,4 @@ devbox.lock
 node_modules
 dist
 .next
+.env
